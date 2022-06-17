@@ -1,3 +1,4 @@
+
 ```zsh
 $ neofetch
 ```
@@ -19,6 +20,8 @@ Languages  :  Python, Javascript, Java, C++, Typescript
 ```
 
 ---
+
+![](https://komarev.com/ghpvc/?username=AcidOP&style=flat-square)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
