@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm AcidOP</h1>
-<h3 align="center">Code Blooded young and charming Jalapeno</h3>
+```zsh
+$ neofetch
+```
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=acidop&label=Profile%20views&color=0e75b6&style=flat" alt="acidop" /> </p>
+<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
- - 🌱 I’m currently learning **C++, Javascript**
+```javascript
+AcidOP@github~$
+----------------
 
-- 📝 I regularly write articles in **my mind**
-
-- 📫 Reach me on Discord **acidOP#1236**
-
-- ⚡ Fun fact **stars are actually diamonds in the sky**
+       OS  :  Parrot OS arm64
+    Shell  :  zsh
+ Terminal  :  Konsole
+      CPU  :  Intel i5 11400 ( 6C12T )
+      GPU  :  NVDIA RTX 3050 Laptop GPU
+    Alias  :  cs/checksum
+Languages  :  Python, Javascript, Java, C++
+  Discord  :  acidOP#1236
+```
 
 ---
 
