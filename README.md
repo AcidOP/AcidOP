@@ -10,7 +10,7 @@ AcidOP@github~$
 ----------------
 
        OS  :  Parrot OS arm64
-    Shell  :  zsh
+    Shell  :  /usr/bin/bash
  Terminal  :  Konsole
       CPU  :  Intel i5 11400 ( 6C12T )
       GPU  :  NVDIA RTX 3050 Laptop GPU
