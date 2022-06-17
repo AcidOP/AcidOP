@@ -14,7 +14,7 @@ AcidOP@github~$
       CPU  :  Intel i5 11400 ( 6C12T )
       GPU  :  NVDIA RTX 3050 Laptop GPU
     Alias  :  cs/checksum
-Languages  :  Python, Javascript, Java, C++
+Languages  :  Python, Javascript, Java, C++, Typescript
   Discord  :  acidOP#1236
 ```
 
