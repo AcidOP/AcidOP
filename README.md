@@ -1,5 +1,5 @@
 
-```zsh
+```
 $ neofetch
 ```
 
@@ -12,9 +12,8 @@ AcidOP@github~$
        OS  :  Parrot OS arm64
     Shell  :  /usr/bin/bash
  Terminal  :  Konsole
-      CPU  :  Intel i5 11400 ( 6C12T )
+      CPU  :  Intel i5 11400 4.5GHz
       GPU  :  NVDIA RTX 3050 Laptop GPU
-    Alias  :  cs/checksum
 Languages  :  Python, Javascript, Java, C++, Typescript
   Discord  :  acidOP#1236
 ```
@@ -47,3 +46,5 @@ Languages  :  Python, Javascript, Java, C++, Typescript
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="40" height="40" /> </a> </p>
+                
+<img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snook hehe"/>
